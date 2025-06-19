@@ -7,7 +7,7 @@ Senior Developer | Car Racing Enthusiast
 
 ### 🚀 About Me
 
-- 👔 CEO of Greptime, building the future of observability databases.
+- 👔 CEO & Founder of Greptime, building the future of observability databases.
 - 💻 Senior developer passionate about systems, distributed computing, and high-performance software.
 - 🦀 Polyglot programmer: Rust, Java, and Clojure are my main weapons.
 - 💎 Also a big fan of Ruby, Elixir, and Erlang—love the elegance and concurrency!
@@ -17,7 +17,7 @@ Senior Developer | Car Racing Enthusiast
 
 ### 🌟 Featured Projects
 
-- [**GreptimeDB**](https://github.com/GreptimeTeam/greptimedb): Next-generation, open-source time-series database for the cloud era.
+- [**GreptimeDB**](https://github.com/GreptimeTeam/greptimedb): Next-generation, open-source observability database for the cloud era.
 - [**sofa-jraft**](https://github.com/sofastack/sofa-jraft): Production-grade Java implementation of the RAFT consensus algorithm.
 - [**aviatorscript**](https://github.com/killme2008/aviatorscript): Lightweight, high-performance expression evaluator for Java.
 
